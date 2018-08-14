@@ -1,0 +1,61 @@
+---
+---
+
+// Override cayman/_sass/jekyll-theme-cayman.scss
+
+// Variables
+$header-bg-color: #812d7c;
+$header-bg-color-secondary: #812d7c;
+
+$body-text-color: #000000;
+
+$border-color: #000000;
+$table-border-color: #000000;
+$hr-border-color: #000000;
+
+@import "{{ site.theme }}";
+
+.page-header {
+  @include large {
+    padding: 0.5rem 0.5rem;
+  }
+
+  @include medium {
+    padding: 0.5rem 0.5rem;
+  }
+
+  @include small {
+    padding: 0.5rem 0.5rem;
+  }
+
+  a {
+    color: $header-heading-color;
+  }
+}
+
+
+.main-content {
+  @include large {
+    max-width: 100rem;
+    padding: 0rem 6rem;
+  }
+
+  table {
+    th {
+      background-color: #f4b7f0;
+    }
+
+    th,
+    td {
+      padding: 0.25rem 0.25rem;
+      border: 1px solid $table-border-color;
+      text-align:left;
+    }
+
+    th + th,
+    td + td {
+      text-align:center;
+    }
+  }
+}
+
