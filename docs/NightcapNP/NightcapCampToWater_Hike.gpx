@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.1" creator="GPS Visualizer http://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="-28.5671722" lon="153.3554727">
+  <ele>663.4</ele>
+</wpt>
+<wpt lat="-28.6405812" lon="153.336074">
+  <ele>177.7</ele>
+  <src>GPS</src>
+</wpt>
+<trk>
+  <name>Nightcap Camp To Water</name>
+  <trkseg>
+    <trkpt lat="-28.563545" lon="153.3374392">
+      <ele>698.942</ele>
+    </trkpt>
+    <trkpt lat="-28.5631352" lon="153.3378375">
+      <ele>698.931</ele>
+    </trkpt>
+    <trkpt lat="-28.5628648" lon="153.338243">
+      <ele>697.048</ele>
+    </trkpt>
+    <trkpt lat="-28.5627425" lon="153.3385753">
+      <ele>696.764</ele>
+    </trkpt>
+    <trkpt lat="-28.5627103" lon="153.3390517">
+      <ele>702.186</ele>
+    </trkpt>
+    <trkpt lat="-28.5627875" lon="153.3395526">
+      <ele>702.576</ele>
+    </trkpt>
+    <trkpt lat="-28.5629206" lon="153.3404077">
+      <ele>705.083</ele>
+    </trkpt>
+    <trkpt lat="-28.5627382" lon="153.3406935">
+      <ele>711.359</ele>
+    </trkpt>
+    <trkpt lat="-28.5624528" lon="153.3409281">
+      <ele>714.767</ele>
+    </trkpt>
+    <trkpt lat="-28.5620065" lon="153.3411431">
+      <ele>726.214</ele>
+    </trkpt>
+    <trkpt lat="-28.5617275" lon="153.3411284">
+      <ele>735.834</ele>
+    </trkpt>
+    <trkpt lat="-28.5615194" lon="153.3412823">
+      <ele>735.363</ele>
+    </trkpt>
+    <trkpt lat="-28.5614507" lon="153.3415755">
+      <ele>731.314</ele>
+    </trkpt>
+    <trkpt lat="-28.5614657" lon="153.3419176">
+      <ele>730.441</ele>
+    </trkpt>
+    <trkpt lat="-28.5616631" lon="153.3423011">
+      <ele>735.081</ele>
+    </trkpt>
+    <trkpt lat="-28.5617897" lon="153.3425064">
+      <ele>737.005</ele>
+    </trkpt>
+    <trkpt lat="-28.561852" lon="153.34278">
+      <ele>739.673</ele>
+    </trkpt>
+    <trkpt lat="-28.5617919" lon="153.3429242">
+      <ele>741.869</ele>
+    </trkpt>
+    <trkpt lat="-28.5616588" lon="153.3431343">
+      <ele>745.154</ele>
+    </trkpt>
+    <trkpt lat="-28.5615172" lon="153.3433884">
+      <ele>747.061</ele>
+    </trkpt>
+    <trkpt lat="-28.5614721" lon="153.3436766">
+      <ele>747.974</ele>
+    </trkpt>
+    <trkpt lat="-28.5615451" lon="153.3440114">
+      <ele>749.263</ele>
+    </trkpt>
+    <trkpt lat="-28.5616417" lon="153.3442386">
+      <ele>748.987</ele>
+    </trkpt>
+    <trkpt lat="-28.5616224" lon="153.3444389">
+      <ele>750.448</ele>
+    </trkpt>
+    <trkpt lat="-28.5615408" lon="153.3446564">
+      <ele>749.833</ele>
+    </trkpt>
+    <trkpt lat="-28.5615365" lon="153.3449593">
+      <ele>750.713</ele>
+    </trkpt>
+    <trkpt lat="-28.561676" lon="153.3451548">
+      <ele>750.98</ele>
+    </trkpt>
+    <trkpt lat="-28.5619721" lon="153.3454504">
+      <ele>749.665</ele>
+    </trkpt>
+    <trkpt lat="-28.5621699" lon="153.3458193">
+      <ele>752.404</ele>
+    </trkpt>
+    <trkpt lat="-28.5623566" lon="153.3461516">
+      <ele>754.502</ele>
+    </trkpt>
+    <trkpt lat="-28.5624188" lon="153.3464594">
+      <ele>757.438</ele>
+    </trkpt>
+    <trkpt lat="-28.5623845" lon="153.3468796">
+      <ele>766.263</ele>
+    </trkpt>
+    <trkpt lat="-28.5623217" lon="153.3470608">
+      <ele>770.393</ele>
+    </trkpt>
+    <trkpt lat="-28.5623282" lon="153.3471954">
+      <ele>772.432</ele>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
