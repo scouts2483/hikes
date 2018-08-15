@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.1" creator="GPS Visualizer http://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="-28.618541646" lon="153.397715061">
+  <ele>265.5</ele>
+</wpt>
+<wpt lat="-28.618135046" lon="153.397595161">
+  <ele>267.3</ele>
+</wpt>
+<wpt lat="-28.611663446" lon="153.390313861">
+  <ele>345.0</ele>
+</wpt>
+<trk>
+  <name>Minyon Grass to Top Of Minyon Falls</name>
+  <desc>Minyon Grass to Top Of Minyon Falls</desc>
+  <trkseg>
+    <trkpt lat="-28.619442846" lon="153.398276761">
+      <ele>286.967</ele>
+    </trkpt>
+    <trkpt lat="-28.619138046" lon="153.397993161">
+      <ele>280.465</ele>
+    </trkpt>
+    <trkpt lat="-28.618686846" lon="153.397776161">
+      <ele>268.59</ele>
+    </trkpt>
+    <trkpt lat="-28.618541646" lon="153.397715061">
+      <ele>265.452</ele>
+    </trkpt>
+    <trkpt lat="-28.618317246" lon="153.397654561">
+      <ele>265.312</ele>
+    </trkpt>
+    <trkpt lat="-28.618135046" lon="153.397595161">
+      <ele>267.296</ele>
+    </trkpt>
+    <trkpt lat="-28.616261146" lon="153.396984061">
+      <ele>283.435</ele>
+    </trkpt>
+    <trkpt lat="-28.615594746" lon="153.396751861">
+      <ele>288.909</ele>
+    </trkpt>
+    <trkpt lat="-28.615238846" lon="153.396610061">
+      <ele>291.875</ele>
+    </trkpt>
+    <trkpt lat="-28.614495546" lon="153.396016661">
+      <ele>297.935</ele>
+    </trkpt>
+    <trkpt lat="-28.613612146" lon="153.395493261">
+      <ele>310.214</ele>
+    </trkpt>
+    <trkpt lat="-28.613125146" lon="153.395132561">
+      <ele>314.636</ele>
+    </trkpt>
+    <trkpt lat="-28.612506046" lon="153.394416261">
+      <ele>318.683</ele>
+    </trkpt>
+    <trkpt lat="-28.612111146" lon="153.394181561">
+      <ele>327.51</ele>
+    </trkpt>
+    <trkpt lat="-28.611663446" lon="153.393466661">
+      <ele>335.568</ele>
+    </trkpt>
+    <trkpt lat="-28.611668046" lon="153.392894061">
+      <ele>327.833</ele>
+    </trkpt>
+    <trkpt lat="-28.611485146" lon="153.392338061">
+      <ele>335.948</ele>
+    </trkpt>
+    <trkpt lat="-28.611192746" lon="153.391619161">
+      <ele>351.843</ele>
+    </trkpt>
+    <trkpt lat="-28.611336046" lon="153.391015961">
+      <ele>352.217</ele>
+    </trkpt>
+    <trkpt lat="-28.611369646" lon="153.390871561">
+      <ele>349.968</ele>
+    </trkpt>
+    <trkpt lat="-28.611543446" lon="153.390761561">
+      <ele>345.209</ele>
+    </trkpt>
+    <trkpt lat="-28.611663446" lon="153.390313861">
+      <ele>344.992</ele>
+    </trkpt>
+    <trkpt lat="-28.611736746" lon="153.389822061">
+      <ele>347.541</ele>
+    </trkpt>
+    <trkpt lat="-28.611740846" lon="153.389624961">
+      <ele>350.334</ele>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
