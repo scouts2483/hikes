@@ -33,9 +33,9 @@ for file in `find ${SOURCE_DIR} -mindepth 2 -name '*.odt'`; do
             echo !!!!!!!!! oldpdf=$oldpdf newpdf=$syncdir/${prefix}.pdf
             cp $srcpdf $syncdir/${prefix}.pdf
         fi
-
-        rm $srcpdf
     fi
+
+    rm $srcpdf
 done
 
 cd $oPWD
