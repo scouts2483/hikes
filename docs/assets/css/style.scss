@@ -41,6 +41,14 @@ $hr-border-color: #000000;
   }
 
   table {
+    .title {
+      background-color: #f4dff3;
+
+      a {
+        color: #0052a3;
+      }
+    }
+
     th {
       background-color: #f4b7f0;
     }
