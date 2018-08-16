@@ -36,9 +36,29 @@ $hr-border-color: #000000;
 
 .main-content {
   @include large {
-    max-width: 100rem;
-    padding: 0rem 6rem;
+    .small-media {
+        display: all;
+    }
   }
+
+  @include medium {
+    .large-media {
+        display: all;
+    }
+    .small-media {
+        display: none;
+    }
+  }
+
+  @include small {
+    .large-media {
+        display: none;
+    }
+    .small-media {
+        display: all;
+    }
+  }
+
 
   table {
     .title {
