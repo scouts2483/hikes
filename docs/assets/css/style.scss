@@ -4,6 +4,10 @@
 // Override cayman/_sass/jekyll-theme-cayman.scss
 
 // Variables
+// Breakpoints
+//$large-breakpoint: 80em !default;
+//$medium-breakpoint: 42em !default;
+
 $header-bg-color: #812d7c;
 $header-bg-color-secondary: #812d7c;
 
@@ -15,6 +19,35 @@ $hr-border-color: #000000;
 
 @import "{{ site.theme }}";
 
+/* Classes so can customise html for different media sizes */
+@include large {
+  .large-media {
+      display: all;
+  }
+  .small-media {
+      display: none;
+  }
+}
+
+@include medium {
+  .large-media {
+      display: all;
+  }
+  .small-media {
+      display: none;
+  }
+}
+
+@include small {
+  .large-media {
+      display: none;
+  }
+  .small-media {
+      display: all;
+  }
+}
+
+/* page-header */
 .page-header {
   @include large {
     padding: 0.5rem 0.5rem;
@@ -33,35 +66,33 @@ $hr-border-color: #000000;
   }
 }
 
-
+/* main-content */
 .main-content {
-  @include large {
-    .large-media {
-        display: all;
-    }
-    .small-media {
-        display: none;
-    }
+  /* Uncomment for wider output on large media */
+  /* max-width: 100rem; */
+
+  /* Force initial header to ignore float set in page-heade */
+  h1 {
+    float: none;
+    clear:both;
   }
 
-  @include medium {
-    .large-media {
-        display: all;
-    }
-    .small-media {
-        display: none;
-    }
+  h1,h2,h3,h4,h5,h6 {
+    margin: 0rem;
+    padding: 0rem;
   }
 
-  @include small {
-    .large-media {
-        display: none;
-    }
-    .small-media {
-        display: all;
-    }
+  h2 {
+    margin: 1rem 0rem 0rem 0rem;
   }
 
+  h3 {
+    margin: 0.25rem 0rem 0rem 0rem;
+  }
+
+  p {
+    margin: 0rem 0rem 0rem 3rem;;
+  }
 
   table {
     .title {
