@@ -90,9 +90,38 @@ $hr-border-color: #000000;
     margin: 0.25rem 0rem 0rem 0rem;
   }
 
-  p {
-    margin: 0rem 0rem 0rem 3rem;;
+  @include large {
+    p {
+      margin: 0rem 0rem 0rem 3rem;
+    }
   }
+
+  @include medium {
+    p {
+      margin: 0rem 0rem 0rem 3rem;
+    }
+  }
+
+  @include small {
+    h1,h2,h3,h4,h5,h6 {
+      margin: 0.2rem 0rem 0rem 0rem;
+      padding: 0rem;
+    }
+    h1 {
+      font-size: 1.3rem;
+    }
+    h2 {
+      font-size: 1.2rem;
+    }
+    h3,h4,h5,h6 {
+      font-size: 1.1rem;
+    }
+    p {
+      margin: 0rem;
+      padding: 0rem;
+    }
+  }
+
 
   table {
     .title {
