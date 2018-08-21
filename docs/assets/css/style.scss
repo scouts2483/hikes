@@ -48,7 +48,7 @@ $hr-border-color: #000000;
 }
 
 body {
-  background-image: url("{{ site.url }}/assets/creekbackground100.jpg");
+  background-image: url("{{ site.baseurl }}/assets/creekbackground100.jpg");
   background-color: #cccccc;
   background-position: center;
   background-repeat: no-repeat;
