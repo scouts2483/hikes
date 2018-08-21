@@ -47,6 +47,14 @@ $hr-border-color: #000000;
   }
 }
 
+body {
+  background-image: url("{{ site.url }}/assets/creekbackground100.jpg");
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /* page-header */
 .page-header {
   @include large {
@@ -68,6 +76,8 @@ $hr-border-color: #000000;
 
 /* main-content */
 .main-content {
+  background: rgba(255, 255, 255, 0.8);
+
   padding-top: 0rem;
 
   /* Uncomment for wider output on large media */
