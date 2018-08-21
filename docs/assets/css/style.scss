@@ -68,10 +68,12 @@ $hr-border-color: #000000;
 
 /* main-content */
 .main-content {
+  padding-top: 0rem;
+
   /* Uncomment for wider output on large media */
   /* max-width: 100rem; */
 
-  /* Force initial header to ignore float set in page-heade */
+  /* Force initial header to ignore float set in page-headef */
   h1 {
     float: none;
     clear:both;
@@ -80,6 +82,14 @@ $hr-border-color: #000000;
   h1,h2,h3,h4,h5,h6 {
     margin: 0rem;
     padding: 0rem;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  h1.title {
+    text-align: center;
   }
 
   h2 {
