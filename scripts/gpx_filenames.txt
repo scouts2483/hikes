@@ -20,4 +20,4 @@ docs/SpringbrookNP/PollysKitchenAndNuminbah/NuminbahLakeViaWaterfallCreekToNumin
 docs/SpringbrookNP/PollysKitchenAndNuminbah/PollysKitchinToNuminbahLake_Hike.gpx
 docs/WollumbinNP/BrummiesLookout_Hike.gpx
 docs/YuraygirCoastalWalk/IllarooToWooli_Hike.gpx
-
+docs/YuraygirCoastalWalk/RedRockToEmeraldBeach_Hike.gpx
