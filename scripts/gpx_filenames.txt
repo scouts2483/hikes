@@ -19,5 +19,6 @@ docs/SpringbrookNP/EastCougals/EastCougals_Hike.gpx
 docs/SpringbrookNP/PollysKitchenAndNuminbah/NuminbahLakeViaWaterfallCreekToNuminbah_Hike.gpx
 docs/SpringbrookNP/PollysKitchenAndNuminbah/PollysKitchinToNuminbahLake_Hike.gpx
 docs/WollumbinNP/BrummiesLookout_Hike.gpx
+docs/YuraygirCoastalWalk/BarcoongereToRedRock_Hike.gpx
 docs/YuraygirCoastalWalk/IllarooToWooli_Hike.gpx
 docs/YuraygirCoastalWalk/RedRockToEmeraldBeach_Hike.gpx
