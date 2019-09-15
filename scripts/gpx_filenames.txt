@@ -3,6 +3,7 @@ docs/BorderRangesNP/BooyongWalkExtraLoop_Hike.gpx
 docs/BorderRangesNP/ForestTopsToSheepstationCreek_Hike.gpx
 docs/BorderRangesNP/SheepstationCreekBooyongLoop_Hike.gpx
 docs/MooballNP/BurringbarMountainSummit_Hike.gpx
+docs/MooballNP/WabbaToCooradillaViaMountBurringbar.gpx
 docs/MtBarneyNP/MtBarneyViaPeasantsRidgeElev.gpx
 docs/MtJerusalemNP/MtChowan_Hike.gpx
 docs/NightcapNP/MinyonFallsLoop_Hike.gpx

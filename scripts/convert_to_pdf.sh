@@ -17,6 +17,9 @@ for file in `find ${SOURCE_DIR} -mindepth 2 -name '*.odt'`; do
     srcpdf=${srcdir}/${prefix}.pdf
 
     oldpdf=`ls -1 $syncdir/${prefix}*.pdf`
+
+    ##echo XXXXXXXXXXXXXXXX oldpdf=$oldpdf newpdf=$syncdir/${prefix}.pdf
+
     if [ -z "$oldpdf" ] ; then
         cp $srcpdf $syncdir/${prefix}.pdf
     else
@@ -39,3 +42,5 @@ for file in `find ${SOURCE_DIR} -mindepth 2 -name '*.odt'`; do
 done
 
 cd $oPWD
+
+echo DONE
