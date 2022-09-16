@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gpx version="1.1" creator="GPS Visualizer http://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <trk>
-  <name>Booyong Walk Extra Loop</name>
-  <desc>Booyong Walk Extra Loop</desc>
+  <name>Rosewood Loop</name>
+  <desc>Rosewood Loop</desc>
   <trkseg>
     <trkpt lat="-28.401835227" lon="153.023538625">
       <ele>391.923</ele>
