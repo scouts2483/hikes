@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="7">
+
+    <name>NSW Topo</name>
+    <description>NSW Topo map</description>
+
+    <source id="NSWTopo" layer="true">
+        <name>NSWTopo</name>
+        <data-source><![CDATA[https://mapsq.six.nsw.gov.au/arcgis/rest/services/sixmaps/LPITopoMap/MapServer]]></data-source>
+        <copyright>xxxx</copyright>
+        <region>OCNI</region>
+        <type>TOPO</type>
+        <outline>131.325282,-9.2328098 142.9488171,-9.6879587 156.0216403,-26.6564938 154.1100192,-33.6413323 150.1109958,-39.189011 148.880527,-44.1736958 146.7931247,-45.0806593 144.2882419,-43.8101144 142.7062106,-40.3542484 130.3034146,-33.053237 117.584627,-36.3832298 113.9151934,-34.9732707 111.959627,-22.0418242 114.956236,-19.2489977 131.325282,-9.2328098</outline>
+        <preview-location>146.30,-37.85,12</preview-location>
+        <level>
+            <zoom-values>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            <referer><![CDATA[https://mapsq.six.nsw.gov.au/arcgis/rest/services/sixmaps/LPITopoMap/MapServer]]></referer>
+            <server><![CDATA[https://mapsq.six.nsw.gov.au/arcgis/rest/services/sixmaps/LPITopoMap/MapServer/tile/{$z}/{$y}/{$x}]]></server>
+        </level>
+    </source>
+
+</aqx>
+

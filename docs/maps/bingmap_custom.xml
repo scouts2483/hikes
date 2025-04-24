@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+<name>Bingmap custom</name>
+<minZoom>0</minZoom>
+<maxZoom>18</maxZoom>
+<tileType>png</tileType>
+<tileUpdate>None</tileUpdate>
+<url>http://ak.t3.tiles.virtualearth.net/tiles/r{$q}.png?g=3440&amp;productSet=mmOS&amp;key=Ag1BtcS1e1mO92e9LnUGrFJUDP3GFaEhRMQr34wsuly4nHroS33K_6660PTuSjrC</url>
+<backgroundColor>#000000</backgroundColor>
+</customMapSource>
